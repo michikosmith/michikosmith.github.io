@@ -11194,7 +11194,7 @@ textarea.form-control-lg {
     border-radius: 0 !important
 }
 
-@media(min-width: 576px) {
+@media(min-width: 300px) {
     .float-sm-start {
         float: left !important
     }
