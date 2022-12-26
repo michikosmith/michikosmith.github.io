@@ -165,7 +165,7 @@
 
 body {
   margin: 0;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: serif;
   font-size: var(--sparrow-body-font-size);
   font-weight: var(--sparrow-body-font-weight);
   line-height: var(--sparrow-body-line-height);
