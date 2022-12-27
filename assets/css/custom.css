@@ -99,6 +99,14 @@ background-color: #FAE5E0;
    
 }
 
+.btnlinkpink {
+    color: #E1AD9D
+}
+
+.btnlinkpink:hover {
+    color:#E1AD9D
+}
+
 
 /* Mail Chimp Form Styling Classes*/
 
