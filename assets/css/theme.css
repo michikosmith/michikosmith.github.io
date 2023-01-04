@@ -19034,7 +19034,7 @@ label,
 .pagination,
 .valid-feedback,
 .invalid-feedback {
-font-family: 'Inknut Antiqua', serif;
+font-family: serif;
 
 }
 
@@ -19182,7 +19182,7 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1 {
 -----------------------------------------------*/
 .btn {
   letter-spacing: 0.1em;
-  text-transform: uppercase;
+  text-transform: none;
   font-size: 0.75rem;
 }
 
@@ -20025,7 +20025,7 @@ html[dir=rtl] .googlemap .gm-style-iw.gm-style-iw-c button[title=Close] {
 }
 
 .bg-glass {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, .95);
 }
 
 .bg-card {
