@@ -52,6 +52,10 @@ background-color: #FAE5E0;
     color: #E1AD9D;
 }
 
+.text-pink:hover {
+    color:#403C3C;
+    text-decoration: none;
+}
 
 .bg-small {
     background-size: cover;
