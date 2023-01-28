@@ -96,6 +96,18 @@ background-color: #FAE5E0;
     line-height: 1;
     width: 3em;
     height: 3em;
+    background-color: #403C3C;
+}
+
+.circle-btn:hover {
+    border-radius: 50rem;
+    padding-left: .8125rem;
+    padding-right: .8125rem;  
+    display: block;
+    line-height: 1;
+    width: 3em;
+    height: 3em;
+    background-color: #403C3C;
 }
 
 .nonbtn {
