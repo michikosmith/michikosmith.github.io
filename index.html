@@ -113,7 +113,20 @@
             <div class="swiper-container theme-slider" data-swiper='{"loop":true,"effect":"fade"}' data-zanim-lg='{"animation":"zoom-out","delay":0}' data-zanim-trigger="scroll">
               <div class="swiper-wrapper">
                 <div class="swiper-slide min-vh-100 w-100">
-                  <div class="bg-holder" alt = "hero image" style="background-image:url(assets/img/home/home_hero_color.jpg);">
+                  <div class="bg-holder" alt = "hero image">
+                    <style>
+                      @media (min-width: 500px) {
+                        .bg-holder{
+                          background-image: url(assets/img/home/home_hero_color.jpg);
+                        }
+                      }
+                      @media (max-width: 499px) {
+                      .bg-holder {
+                        background-image: url(assets/img/home/home_hero_color_mobile.jpg);
+                        }
+                          }
+
+                    </style>
                   </div>
                   <!--/.bg-holder-->
   
